@@ -13,6 +13,8 @@
  - Kemudian generate Key `php artisan key:generate`
  - Konfigurasi Database pada file `.env`
 
+# Develop Project pada branch DEV !!! [disini]('https://github.com/arifrahmanfauzi/crysah/tree/dev')
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
