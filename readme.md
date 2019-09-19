@@ -13,7 +13,7 @@
  - Kemudian generate Key `php artisan key:generate`
  - Konfigurasi Database pada file `.env`
 
-# Develop Project pada branch DEV !!! [disini]('https://github.com/arifrahmanfauzi/crysah/tree/dev')
+# Develop Project pada branch *DEV* !!! 
 
 ## Learning Laravel
 
